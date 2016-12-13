@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b933cc4e1dbdc483eb4917c95fc6d81e
-timeCreated: 1481659962
+timeCreated: 1481663339
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -19,9 +19,9 @@ TextureImporter:
     21300024: Sparty_SS_5
     21300026: SpartyIdle1
     21300028: SpartyIdle2
-    21300030: SpartyWalk1
-    21300032: SpartyWalk2
-    21300034: SpartyWalk3
+    21300030: SpartyRun1
+    21300032: SpartyRun2
+    21300034: SpartyRun3
     21300036: SpartyJump
   serializedVersion: 4
   mipmaps:
@@ -163,7 +163,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: SpartyWalk1
+      name: SpartyRun1
       rect:
         serializedVersion: 2
         x: 32
@@ -176,7 +176,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: SpartyWalk2
+      name: SpartyRun2
       rect:
         serializedVersion: 2
         x: 48
@@ -189,7 +189,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: SpartyWalk3
+      name: SpartyRun3
       rect:
         serializedVersion: 2
         x: 64
