@@ -1,5 +1,7 @@
-﻿using UnityEngine;
+﻿using System;
 using System.Collections;
+
+using UnityEngine;
 using UnityEngine.SceneManagement; // include so we can load new scenes
 
 public class CharacterController2D : MonoBehaviour {
@@ -143,23 +145,8 @@ public class CharacterController2D : MonoBehaviour {
 	// this code will flip the player even if the animator is controlling scale
 	void LateUpdate()
 	{
-		// get the current scale
 		Vector3 localScale = _transform.localScale;
-
-		if (_vx > 0) // moving right so face right
-		{
-			facingRight = true;
-		} else if (_vx < 0) { // moving left so face left
-			facingRight = false;
-		}
-
-		// check to see if scale x is right for the player
-		// if not, multiple by -1 which is an easy way to flip a sprite
-		if (((facingRight) && (localScale.x<0)) || ((!facingRight) && (localScale.x>0))) {
-			localScale.x *= -1;
-		}
-
-		// update the scale
+	    localScale.x = (_vx < 0 ? -1 : 1) * Math.Abs(localScale.x);
 		_transform.localScale = localScale;
 	}
 
