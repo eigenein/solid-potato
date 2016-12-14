@@ -145,9 +145,16 @@ public class CharacterController2D : MonoBehaviour {
 	// this code will flip the player even if the animator is controlling scale
 	void LateUpdate()
 	{
-		Vector3 localScale = _transform.localScale;
-	    localScale.x = (_vx < 0 ? -1 : 1) * Math.Abs(localScale.x);
-		_transform.localScale = localScale;
+	    if (_vx != 0)
+	    {
+	        facingRight = _vx > 0;
+	    }
+        Vector3 localScale = _transform.localScale;
+	    if (localScale.x > 0 != facingRight)
+	    {
+	        localScale.x *= -1;
+	    }
+        _transform.localScale = localScale;
 	}
 
 	// if the player collides with a MovingPlatform, then make it a child of that platform
