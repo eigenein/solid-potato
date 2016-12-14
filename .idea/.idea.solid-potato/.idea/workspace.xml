@@ -36,32 +36,32 @@
       <file leaf-file-name="CharacterController2D.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../Assets/Scripts/CharacterController2D.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="154" column="29" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
+            <state relative-caret-position="340">
+              <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
               <folding>
-                <marker date="1481749302000" expanded="true" signature="6:94" ph="..." />
-                <marker date="1481749302000" expanded="true" signature="184:7524" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
-                <marker date="1481749302000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
-                <marker date="1481749302000" expanded="true" signature="1453:2431" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="2530:4400" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="3087:3278" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
-                <marker date="1481749302000" expanded="true" signature="3797:3944" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
-                <marker date="1481749302000" expanded="true" signature="4120:4318" ph="/* if moving up then don't collide with platform layer ... */" />
-                <marker date="1481749302000" expanded="true" signature="4403:4608" ph="/* Checking to see if the sprite should be flipped ... */" />
-                <marker date="1481749302000" expanded="true" signature="4627:4879" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="4882:5019" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
-                <marker date="1481749302000" expanded="true" signature="5063:5167" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="5287:5380" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="5454:5516" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="5593:5655" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="5745:5779" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="5869:6060" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="6155:6265" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="6325:6808" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="6847:6996" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="7067:7270" ph="{...}" />
-                <marker date="1481749302000" expanded="true" signature="7381:7522" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="6:94" ph="..." />
+                <marker date="1481750559000" expanded="true" signature="184:7680" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
+                <marker date="1481750559000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
+                <marker date="1481750559000" expanded="true" signature="1487:2465" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="2564:4556" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="3121:3312" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
+                <marker date="1481750559000" expanded="true" signature="3953:4100" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
+                <marker date="1481750559000" expanded="true" signature="4276:4474" ph="/* if moving up then don't collide with platform layer ... */" />
+                <marker date="1481750559000" expanded="true" signature="4559:4764" ph="/* Checking to see if the sprite should be flipped ... */" />
+                <marker date="1481750559000" expanded="true" signature="4783:5035" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="5038:5175" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
+                <marker date="1481750559000" expanded="true" signature="5219:5323" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="5443:5536" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="5610:5672" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="5749:5811" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="5901:5935" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="6025:6216" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="6311:6421" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="6481:6964" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="7003:7152" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="7223:7426" ph="{...}" />
+                <marker date="1481750559000" expanded="true" signature="7537:7678" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -209,12 +209,12 @@
       <option name="presentableId" value="Default" />
       <updated>1481669409737</updated>
       <workItem from="1481669412617" duration="1616000" />
-      <workItem from="1481747998001" duration="1306000" />
+      <workItem from="1481747998001" duration="2467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2922000" />
+    <option name="totallyTimeSpent" value="4083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,29 +289,29 @@
         <state relative-caret-position="935">
           <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
           <folding>
-            <marker date="1481749302000" expanded="true" signature="6:94" ph="..." />
-            <marker date="1481749302000" expanded="true" signature="184:7524" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
-            <marker date="1481749302000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
-            <marker date="1481749302000" expanded="true" signature="1453:2431" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="2530:4400" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="3087:3278" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
-            <marker date="1481749302000" expanded="true" signature="3797:3944" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
-            <marker date="1481749302000" expanded="true" signature="4120:4318" ph="/* if moving up then don't collide with platform layer ... */" />
-            <marker date="1481749302000" expanded="true" signature="4403:4608" ph="/* Checking to see if the sprite should be flipped ... */" />
-            <marker date="1481749302000" expanded="true" signature="4627:4879" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="4882:5019" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
-            <marker date="1481749302000" expanded="true" signature="5063:5167" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5287:5380" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5454:5516" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5593:5655" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5745:5779" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5869:6060" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6155:6265" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6325:6808" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6847:6996" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="7067:7270" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="7381:7522" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6:94" ph="..." />
+            <marker date="1481750559000" expanded="true" signature="184:7680" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
+            <marker date="1481750559000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
+            <marker date="1481750559000" expanded="true" signature="1487:2465" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="2564:4556" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="3121:3312" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
+            <marker date="1481750559000" expanded="true" signature="3953:4100" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
+            <marker date="1481750559000" expanded="true" signature="4276:4474" ph="/* if moving up then don't collide with platform layer ... */" />
+            <marker date="1481750559000" expanded="true" signature="4559:4764" ph="/* Checking to see if the sprite should be flipped ... */" />
+            <marker date="1481750559000" expanded="true" signature="4783:5035" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5038:5175" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
+            <marker date="1481750559000" expanded="true" signature="5219:5323" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5443:5536" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5610:5672" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5749:5811" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5901:5935" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6025:6216" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6311:6421" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6481:6964" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7003:7152" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7223:7426" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7537:7678" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -377,32 +377,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Assets/Scripts/CharacterController2D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="154" column="29" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
+        <state relative-caret-position="340">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
           <folding>
-            <marker date="1481749302000" expanded="true" signature="6:94" ph="..." />
-            <marker date="1481749302000" expanded="true" signature="184:7524" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
-            <marker date="1481749302000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
-            <marker date="1481749302000" expanded="true" signature="1453:2431" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="2530:4400" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="3087:3278" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
-            <marker date="1481749302000" expanded="true" signature="3797:3944" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
-            <marker date="1481749302000" expanded="true" signature="4120:4318" ph="/* if moving up then don't collide with platform layer ... */" />
-            <marker date="1481749302000" expanded="true" signature="4403:4608" ph="/* Checking to see if the sprite should be flipped ... */" />
-            <marker date="1481749302000" expanded="true" signature="4627:4879" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="4882:5019" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
-            <marker date="1481749302000" expanded="true" signature="5063:5167" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5287:5380" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5454:5516" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5593:5655" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5745:5779" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="5869:6060" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6155:6265" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6325:6808" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="6847:6996" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="7067:7270" ph="{...}" />
-            <marker date="1481749302000" expanded="true" signature="7381:7522" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6:94" ph="..." />
+            <marker date="1481750559000" expanded="true" signature="184:7680" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="602:741" ph="/* player can move? ... */" />
+            <marker date="1481750559000" expanded="true" signature="947:1027" ph="/* private variables below ... */" />
+            <marker date="1481750559000" expanded="true" signature="1487:2465" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="2564:4556" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="3121:3312" ph="/* Check to see if character is grounded by raycasting from the middle of the player ... */" />
+            <marker date="1481750559000" expanded="true" signature="3953:4100" ph="/* If the player stops jumping mid jump and player is not yet falling ... */" />
+            <marker date="1481750559000" expanded="true" signature="4276:4474" ph="/* if moving up then don't collide with platform layer ... */" />
+            <marker date="1481750559000" expanded="true" signature="4559:4764" ph="/* Checking to see if the sprite should be flipped ... */" />
+            <marker date="1481750559000" expanded="true" signature="4783:5035" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5038:5175" ph="/* if the player collides with a MovingPlatform, then make it a child of that platform ... */" />
+            <marker date="1481750559000" expanded="true" signature="5219:5323" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5443:5536" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5610:5672" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5749:5811" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="5901:5935" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6025:6216" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6311:6421" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="6481:6964" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7003:7152" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7223:7426" ph="{...}" />
+            <marker date="1481750559000" expanded="true" signature="7537:7678" ph="{...}" />
           </folding>
         </state>
       </provider>
