@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dfc1210-f8c0-44a6-b25d-ea6311262e8f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" />
     </list>
     <ignored path="solid-potato.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +74,8 @@
       <file leaf-file-name="Enemy.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            <state relative-caret-position="230">
+              <caret line="184" column="21" lean-forward="true" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
               <folding>
                 <marker date="1482795515000" expanded="true" signature="6:44" ph="..." />
                 <marker date="1482795515000" expanded="true" signature="81:7055" ph="{...}" />
@@ -247,12 +247,12 @@
       <updated>1481669409737</updated>
       <workItem from="1481669412617" duration="1616000" />
       <workItem from="1481747998001" duration="4621000" />
-      <workItem from="1482788229471" duration="1347000" />
+      <workItem from="1482788229471" duration="2098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7584000" />
+    <option name="totallyTimeSpent" value="8335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="230">
+          <caret line="184" column="21" lean-forward="true" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
           <folding>
             <marker date="1482795515000" expanded="true" signature="6:44" ph="..." />
             <marker date="1482795515000" expanded="true" signature="81:7055" ph="{...}" />
