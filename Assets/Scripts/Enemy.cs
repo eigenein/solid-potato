@@ -107,7 +107,7 @@ public class Enemy : MonoBehaviour {
 			_vx = myWaypoints[_myWaypointIndex].transform.position.x-_transform.position.x;
 			
 			// if the enemy is close enough to waypoint, make it's new target the next waypoint
-			if (Mathf.Abs(_vx) <= 0.05f) {
+			if (Mathf.Abs(_vx) <= 0.1f) {
 				// At waypoint so stop moving
 				_rigidbody.velocity = new Vector2(0, 0);
 				
