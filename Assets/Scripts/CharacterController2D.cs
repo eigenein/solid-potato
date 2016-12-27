@@ -10,7 +10,9 @@ public class CharacterController2D : MonoBehaviour {
 	[Range(0.0f, 10.0f)] // create a slider in the editor and set limits on moveSpeed
 	public float moveSpeed = 3f;
 
-	public float jumpForce = 600f;
+	public float jumpForce = 300f;
+
+    public float bounceForce = 300f;
 
 	// player health
 	public int playerHealth = 1;
@@ -272,4 +274,10 @@ public class CharacterController2D : MonoBehaviour {
 		_transform.position = spawnloc;
 		_animator.SetTrigger("Respawn");
 	}
+
+    public void Bounce()
+    {
+        _rigidbody.AddForce(new Vector2(0, bounceForce));
+        PlaySound(jumpSFX);
+    }
 }
