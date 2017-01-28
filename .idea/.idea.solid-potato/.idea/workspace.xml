@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dfc1210-f8c0-44a6-b25d-ea6311262e8f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
     </list>
     <ignored path="solid-potato.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -386,12 +387,12 @@
       <workItem from="1482788229471" duration="3077000" />
       <workItem from="1482872548181" duration="910000" />
       <workItem from="1485094216444" duration="3144000" />
-      <workItem from="1485630070674" duration="477000" />
+      <workItem from="1485630070674" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13845000" />
+    <option name="totallyTimeSpent" value="13987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
